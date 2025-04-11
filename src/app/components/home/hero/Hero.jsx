@@ -3,7 +3,7 @@
 import { Button } from '../../../../components/ui/button';
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-import { toast } from '../../../../components/ui/sonner';
+import { toast } from 'sonner';
 import { Loader } from 'lucide-react'
 
 
