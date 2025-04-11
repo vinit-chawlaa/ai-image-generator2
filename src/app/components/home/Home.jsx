@@ -2,9 +2,9 @@
 
 import React, { useEffect } from 'react'
 import Hero from './hero/Hero'
-import About from './About/About'
-import Price from './Price/Price'
-import Review from './Review/Review'
+import About from './about/About'
+import Price from './price/Price'
+import Review from './review/Review'
 import Faq from './Faq/Faq'
 import Recentimage from './recentimage/Recentimage'
 
