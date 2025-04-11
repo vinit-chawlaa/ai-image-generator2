@@ -1,7 +1,7 @@
 import Home from './components/home/Home'
-import type { Metadata } from "next";
+import { Metadata } from "next";
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Ai Image Generation",
   description: "Ai Image Generation using next js 15",
 };
